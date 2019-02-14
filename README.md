@@ -1,4 +1,5 @@
 # L6480
+L6480でステッピーを回すサンプル
 
 ## 参考
 - http://spinelify.blog.fc2.com/blog-entry-66.html
